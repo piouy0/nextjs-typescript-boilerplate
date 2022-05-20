@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans:wght@400;500;700&display=swap");
+
+* {
+  font-family: "Noto Sans KR", "Noto Sans", sans-serif !important;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px !important;
+}
+
+body {
+  -webkit-overflow-scrolling: touch;
+  /* for font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+}
+
+input {
+  font-family: "Nanum Gothic", sans-serif !important;
+}
+
+button {
+  outline: none !important;
+  border: none;
+  background: none;
+}
