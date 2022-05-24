@@ -1,7 +1,5 @@
 import React from "react"
 
-import TestImage from ""
-
 interface Props {}
 
 const Test : React.FC<Props> = () => {
